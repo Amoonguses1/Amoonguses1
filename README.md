@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi
+I'm Haruki Kawai, a graduate student in Tokyo University of Agricultual and Technology.
 
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Amoonguses1&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amoonguses1&layout=compact" />
+</a>
 <!--
 **Amoonguses1/Amoonguses1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
